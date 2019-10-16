@@ -87,10 +87,9 @@ div .button {
 
   #scroll {
     display: block;
-    margin-top: 50%;
     left: 50%;
     right: 50%;
-    top: 30%;
+    top: 200%;
     align-content: center;
     position: absolute;
     transform: translate(-50%, -50%);
